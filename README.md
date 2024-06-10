@@ -1,4 +1,4 @@
-# Codis d'àlgreba lineal numèrica del Grau en Matemàtiques - FME 2024
+# Codis d'àlgebra lineal numèrica del Grau en Matemàtiques - FME 2024
 
 Inclou els codis de:
 * Substitució endarrere
