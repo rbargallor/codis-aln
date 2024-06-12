@@ -17,3 +17,8 @@ Inclou els codis de:
 * Mètode de deflació
 * Mètode de Jacobi per trobar VAPs
 * Discs de Gerschgorin
+
+## Autors
+**Pau Martí Biosca** - *2n Matemàtiques* - [Github](https://github.com/PauHPMCBR)
+
+**Roger Bargalló Roselló** - *2n Matemàtiques* - [Github](https://github.com/rbargallor)
